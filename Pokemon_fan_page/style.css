@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    color: blueviolet;
+    margin: 60px;
+    font-display: swap;
+}
+
+
+#P {
+    text-align: left;
+    color: rgb(155, 52, 52);
+    
+}
+
+.PA {
+    text-align: center;
+    color: darkblue;
+    
+}
+
+.Pikachu img {
+    position: relative;
+    border: 40px;
+    text-align: center;
+    color: blueviolet;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 150px;
+
+
+}
+
+.Pikachu {
+     position: relative;
+    border: 40px;
+    text-align: center;
+    color: blueviolet;
+}
+
+
+
+
+
