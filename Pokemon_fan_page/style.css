@@ -1,24 +1,27 @@
-h1 {
+
+
+
+#About  {                     /* About Text alterations */
+    height: 10px;
     text-align: center;
-    color: blueviolet;
-    margin: 60px;
-    font-display: swap;
-}
-
-
-#P {
-    text-align: left;
-    color: rgb(155, 52, 52);
+    border: 3px solid green;
+    text-align: center;
+    display: table;
+    background-color:cyan; 
+    width: 266px; 
+    height:266px;  
+    border-radius:50px;
+    margin: auto; 
     
 }
 
-.PA {
+.PA {                         /* Pikachu image alterations */
     text-align: center;
     color: darkblue;
     
 }
 
-.Pikachu img {
+.Pikachu img {              /* Pikachu image alterations */
     position: relative;
     border: 40px;
     text-align: center;
@@ -31,7 +34,7 @@ h1 {
 
 }
 
-.Pikachu {
+.Pikachu {                   /* Pikachu text alteratio */
      position: relative;
     border: 40px;
     text-align: center;
@@ -39,6 +42,9 @@ h1 {
 }
 
 
+mark {
+    color: red;
+}
 
 
 
